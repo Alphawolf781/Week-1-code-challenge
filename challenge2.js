@@ -18,4 +18,7 @@ function speedDetector(speed){
  }
 }
 
-speedDetector()
+
+speedDetector(50)
+speedDetector(100)
+speedDetector(250)
